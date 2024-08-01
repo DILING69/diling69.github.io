@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://weiyueli7.github.io/sitemap.xml
+Sitemap: https://diling69.github.io/sitemap.xml

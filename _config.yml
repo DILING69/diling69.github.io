@@ -11,15 +11,15 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 locale                   : "en-US"
-title                    : "Weiyue Li"
+title                    : "Jiesen Zhang"
 title_separator          : "-"
-name                     : "Weiyue Li"
+name                     : "Jiesen Zhang"
 description              : "Personal website"
-url                      : "https://weiyueli7.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://diling69.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "weiyueli7/weiyueli7.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "diling69/diling69.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: "/assets/favicon/android-chrome-192x192.png"
+logo: "/assets/favicon/JZ-logo.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -83,16 +83,16 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-91561805-1"
+    tracking_id          : "G-K7J9KJ7ZP2"
 
 
 # Site Author
 author:
-  name             : "Weiyue(Larry) Li"
-  avatar           : "/assets/images/weiyue-li.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Graduate Student at Harvard University"
-  location         : "Cambridge, MA"
-  email            : "weiyueli@g.harvard.edu"
+  name             : "Jiesen Zhang"
+  avatar           : "/assets/images/prof-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Undergraduate Student at University of California, San Diego"
+  location         : "La Jolla, CA"
+  email            : "jiz147@ucsd.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,32 +100,29 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weiyueli7"
+  github           : "diling69"
   google_plus      :
   keybase          :
   lastfm           :
-  linkedin         : "weiyue-larry-li"
+  linkedin         : "Jiesen Zhang"
   # instagram        : "larryliweiyue"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
-  tumblr           :
-  twitter          : "WeiyueLi777"
   vine             :
   weibo            :
   xing             :
   youtube          :
-  # googlescholar    : "https://scholar.google.com/citations?user=-ZhPymUAAAAJ&hl=en"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/weiyueli7"
+      url: "https://github.com/diling69"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/weiyue-larry-li/"
+      url: "www.linkedin.com/in/jiesen-zhang-3a6246247"
 
 # Reading Files
 include:
