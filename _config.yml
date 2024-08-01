@@ -89,7 +89,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiesen Zhang"
-  avatar           : "/assets/images/prof-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/prof-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Undergraduate Student at University of California, San Diego"
   location         : "La Jolla, CA"
   email            : "jiz147@ucsd.edu"
