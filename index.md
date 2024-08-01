@@ -5,7 +5,7 @@ classes: wide
 ---
 <!-- | 🎉 <span style='color:Blue'><b>Welcome to my new personal website! Last update July 2024.</b></span> <br> -->
 
-## About Me💯
+## About Me
 
 Hello there, my name is **Jiesen Zhang (张杰森)**. I am a rising senior studying Data Science and Cognitive Science at UCSD. I am deeply interested in the theories of machine learning and deep learning, and how understanding them can help us ensure safe and ethical practices in the field.
 
