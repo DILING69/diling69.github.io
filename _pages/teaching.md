@@ -72,7 +72,7 @@ Below is the list detailing the classes that I have served as an undergraduate t
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/train.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/dsc95.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>Tutor Apprenticeship in Data Science</h3>
