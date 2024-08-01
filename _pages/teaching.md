@@ -82,7 +82,7 @@ Below is the list detailing the classes that I have served as an undergraduate t
       <em>UCSD DSC 95  WI24</em>
       <br>
       
-      <a href="https://dsc-courses.github.io/dsc95-2023-fa/>website</a>
+      <a href="https://dsc-courses.github.io/dsc95-2023-fa/">website</a>
       
       <p></p>
       <p>Guide new DSC tutors through their first quarter as a tutor.</p>
