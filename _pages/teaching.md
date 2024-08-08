@@ -124,6 +124,8 @@ Below is the list detailing the classes that I have served as an undergraduate t
       <em>UCSD DSC 40A  SU24</em>
       <br>
       
+      <a href="../assets/pdfs/evaluations/dsc40a_eval.pdf">evaluation</a> 
+
       <a href="https://dsc40a.com/">website</a>
       
       <p></p>
