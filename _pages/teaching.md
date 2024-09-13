@@ -146,6 +146,8 @@ Below is the list detailing the classes that I have served as an undergraduate t
       <br>
       <em>UCSD DSC 30  SU24</em>
       <br>
+
+      <a href="../assets/pdfs/evaluations/dsc30_eval.pdf">evaluation</a> 
       
       <a href="https://catalog.ucsd.edu/courses/DSC.html#dsc30">website</a>
       
