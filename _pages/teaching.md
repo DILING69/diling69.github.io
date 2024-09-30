@@ -25,6 +25,28 @@ Below is the list detailing the classes that I have served as an undergraduate t
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/dsc100.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>Intro to Data Management </h3>
+      <br>
+      Prof. Kyle Shannon
+      <br>
+      <em>UCSD DSC 100  SU24</em>
+      <br>
+
+      <!-- <a href="../assets/pdfs/evaluations/dsc30_eval.pdf">evaluation</a>  -->
+      
+      <a href="https://kshannon-ucsd.github.io/dsc100/">website</a>
+      
+      <p></p>
+      <p>This course is an introduction to storage and management of large-scale data using classical relational (SQL) systems, with an eye toward applications in data science. The course covers topics including the SQL data model and query language, relational data modeling and schema design, elements of cost-based query optimizations, relational data base architecture, and database-backed applications.</p>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
       <img src="../assets/images/dsc95.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
@@ -106,28 +128,6 @@ Below is the list detailing the classes that I have served as an undergraduate t
       
       <p></p>
       <p>Programming techniques including encapsulation, abstract data types, interfaces, algorithms and complexity, and data structures such as stacks, queues, priority queues, heaps, linked lists, binary trees, binary search trees, and hash tables with Java.</p>
-
-    </td>
-  </tr>
-
-  <tr>
-    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/dsc100.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
-    </td>
-    <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Intro to Data Management </h3>
-      <br>
-      Prof. Kyle Shannon
-      <br>
-      <em>UCSD DSC 100  SU24</em>
-      <br>
-
-      <!-- <a href="../assets/pdfs/evaluations/dsc30_eval.pdf">evaluation</a>  -->
-      
-      <a href="https://kshannon-ucsd.github.io/dsc100/">website</a>
-      
-      <p></p>
-      <p>This course is an introduction to storage and management of large-scale data using classical relational (SQL) systems, with an eye toward applications in data science. The course covers topics including the SQL data model and query language, relational data modeling and schema design, elements of cost-based query optimizations, relational data base architecture, and database-backed applications.</p>
 
     </td>
   </tr>
