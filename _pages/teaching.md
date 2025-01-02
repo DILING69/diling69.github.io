@@ -25,45 +25,49 @@ Below is the list detailing the classes that I have served as an undergraduate t
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/dsc100.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/dsc30.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Intro to Data Management </h3>
+      <h3>Data Structures and Algorithms for Data Science </h3>
       <br>
-      Prof. Kyle Shannon
+      Prof. Suh Young Choi
       <br>
-      <em>UCSD DSC 100  SU24</em>
+      <em>UCSD DSC 30  SU24</em>
       <br>
 
-      <!-- <a href="../assets/pdfs/evaluations/dsc30_eval.pdf">evaluation</a>  -->
+      <a href="../assets/pdfs/evaluations/dsc30_eval.pdf">evaluation</a> 
       
-      <a href="https://kshannon-ucsd.github.io/dsc100/">website</a>
+      <a href="https://catalog.ucsd.edu/courses/DSC.html#dsc30">website</a>
       
       <p></p>
-      <p>This course is an introduction to storage and management of large-scale data using classical relational (SQL) systems, with an eye toward applications in data science. The course covers topics including the SQL data model and query language, relational data modeling and schema design, elements of cost-based query optimizations, relational data base architecture, and database-backed applications.</p>
+      <p>Programming techniques including encapsulation, abstract data types, interfaces, algorithms and complexity, and data structures such as stacks, queues, priority queues, heaps, linked lists, binary trees, binary search trees, and hash tables with Java.</p>
 
     </td>
   </tr>
+
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/dsc95.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/dsc40a.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Tutor Apprenticeship in Data Science</h3>
+      <h3>Theoretical Foundations of Data Science I</h3>
       <br>
-      Prof. Colin Jemmott
+      Prof. Kyle Shannon
       <br>
-      <em>UCSD DSC 95  WI24</em>
+      <em>UCSD DSC 40A  SU24 WI25</em>
       <br>
       
-      <a href="https://dsc-courses.github.io/dsc95-2023-fa/">website</a>
+      <a href="../assets/pdfs/evaluations/dsc40a_eval.pdf">evaluation</a> 
+
+      <a href="https://dsc40a.com/">website</a>
       
       <p></p>
-      <p>Guide new DSC tutors through their first quarter as a tutor.</p>
+      <p>DSC 40A will introduce fundamental topics in machine learning, statistics, and linear algebra with applications to data analysis.</p>
 
     </td>
   </tr>
+
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
@@ -87,24 +91,23 @@ Below is the list detailing the classes that I have served as an undergraduate t
     </td>
   </tr>
 
+
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/dsc40a.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/dsc95.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Theoretical Foundations of Data Science I</h3>
+      <h3>Tutor Apprenticeship in Data Science</h3>
       <br>
-      Prof. Kyle Shannon
+      Prof. Colin Jemmott
       <br>
-      <em>UCSD DSC 40A  SU24</em>
+      <em>UCSD DSC 95  WI24</em>
       <br>
       
-      <a href="../assets/pdfs/evaluations/dsc40a_eval.pdf">evaluation</a> 
-
-      <a href="https://dsc40a.com/">website</a>
+      <a href="https://dsc-courses.github.io/dsc95-2023-fa/">website</a>
       
       <p></p>
-      <p>DSC 40A will introduce fundamental topics in machine learning, statistics, and linear algebra with applications to data analysis.</p>
+      <p>Guide new DSC tutors through their first quarter as a tutor.</p>
 
     </td>
   </tr>
@@ -112,22 +115,22 @@ Below is the list detailing the classes that I have served as an undergraduate t
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/dsc30.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/dsc100.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Data Structures and Algorithms for Data Science </h3>
+      <h3>Intro to Data Management </h3>
       <br>
-      Prof. Suh Young Choi
+      Prof. Kyle Shannon
       <br>
-      <em>UCSD DSC 30  SU24</em>
+      <em>UCSD DSC 100  FA24</em>
       <br>
 
-      <a href="../assets/pdfs/evaluations/dsc30_eval.pdf">evaluation</a> 
+      <a href="../assets/pdfs/evaluations/dsc100_eval.pdf">evaluation</a> 
       
-      <a href="https://catalog.ucsd.edu/courses/DSC.html#dsc30">website</a>
+      <a href="https://kshannon-ucsd.github.io/dsc100/">website</a>
       
       <p></p>
-      <p>Programming techniques including encapsulation, abstract data types, interfaces, algorithms and complexity, and data structures such as stacks, queues, priority queues, heaps, linked lists, binary trees, binary search trees, and hash tables with Java.</p>
+      <p>This course is an introduction to storage and management of large-scale data using classical relational (SQL) systems, with an eye toward applications in data science. The course covers topics including the SQL data model and query language, relational data modeling and schema design, elements of cost-based query optimizations, relational data base architecture, and database-backed applications.</p>
 
     </td>
   </tr>
