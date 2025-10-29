@@ -146,6 +146,26 @@ Below is the list detailing the classes that I have served as an undergraduate t
     <img src="../assets/images/cogs9.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
+    <h3> Modeling and Data Analysis</h3>
+    <br>
+    Prof. Lucy Lai
+    <br>
+    <em>UCSD COGS 109  FA25</em>
+    <br>
+
+     <a href="https://cogs109.github.io/fa25/">website</a>
+
+    <p></p>
+    <p>Exposure to the basic computational methods useful throughout cognitive science. Computing basic statistics, modeling learning individuals, evolving populations, communicating agents, and corpus-based linguistics will be considered.</p>
+
+    </td>
+</tr>
+
+<tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+    <img src="../assets/images/cogs9.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
     <h3> Introduction to Data Science</h3>
     <br>
     Prof. Kyle Shannon
