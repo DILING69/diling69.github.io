@@ -143,7 +143,7 @@ Below is the list detailing the classes that I have served as an undergraduate/g
 
 <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-    <img src="../assets/images/cogs9.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+    <img src="../assets/images/cogs109.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
     <h3> Modeling and Data Analysis</h3>
