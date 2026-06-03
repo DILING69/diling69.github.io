@@ -72,3 +72,23 @@ toc_sticky: true
     </td>
   </tr>
 </table>
+
+### Photography
+
+{% for series in site.data.gallery %}
+#### {{ series.title }}
+
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:8px;margin-top:0.5em;margin-bottom:1.5em;">
+{% assign series_path = "/assets/images/gallery/" | append: series.id | append: "/" %}
+{% for file in site.static_files %}
+  {% assign ext = file.extname | downcase %}
+  {% if file.path contains series_path %}
+    {% if ext == '.jpg' or ext == '.jpeg' or ext == '.png' or ext == '.gif' or ext == '.webp' %}
+<a href="{{ file.path }}" target="_blank">
+  <img src="{{ file.path }}" alt="{{ series.title }}" style="width:100%;height:220px;object-fit:cover;border-radius:4px;" />
+</a>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</div>
+{% endfor %}
