@@ -155,6 +155,10 @@ Below is the list detailing the classes that I have served as an undergraduate/g
 
      <a href="https://cogs109.github.io/fa25/">website</a>
 
+     <a href="../assets/pdfs/evaluations/cogs109-instructor-eval.pdf">instructor evaluation</a>
+
+     <a href="../assets/pdfs/evaluations/cogs109-student-eval.pdf">student evaluation</a>
+
     <p></p>
     <p>Exposure to the basic computational methods useful throughout cognitive science. Computing basic statistics, modeling learning individuals, evolving populations, communicating agents, and corpus-based linguistics will be considered.</p>
 
