@@ -35,7 +35,7 @@ Below is the list detailing the classes that I have served as an undergraduate/g
       <em>UCSD DSC 30  SU24</em>
       <br>
 
-      <a href="../assets/pdfs/evaluations/dsc30_eval.pdf">instructor evaluation</a> 
+      <a href="../assets/pdfs/evaluations/dsc30-instructor-eval.pdf">instructor evaluation</a> 
       
       <a href="https://catalog.ucsd.edu/courses/DSC.html#dsc30">website</a>
       
@@ -58,7 +58,7 @@ Below is the list detailing the classes that I have served as an undergraduate/g
       <em>UCSD DSC 40A  SU24 WI25</em>
       <br>
       
-      <a href="../assets/pdfs/evaluations/dsc40a_eval.pdf">instructor evaluation</a> 
+      <a href="../assets/pdfs/evaluations/dsc40a-instructor-eval.pdf">instructor evaluation</a> 
 
       <a href="https://dsc40a.com/">website</a>
       
@@ -81,7 +81,7 @@ Below is the list detailing the classes that I have served as an undergraduate/g
       <em>UCSD DSC 40B  FA23 SP24</em>
       <br>
       
-      <a href="../assets/pdfs/evaluations/dsc40b_eval.pdf">instructor evaluation</a> 
+      <a href="../assets/pdfs/evaluations/dsc40b-instructor-eval.pdf">instructor evaluation</a> 
       
       <a href="https://dsc40b.com">website</a>
       
@@ -125,7 +125,7 @@ Below is the list detailing the classes that I have served as an undergraduate/g
       <em>UCSD DSC 100  FA24</em>
       <br>
 
-      <a href="../assets/pdfs/evaluations/dsc100_eval.pdf">student evaluation</a> 
+      <a href="../assets/pdfs/evaluations/dsc100-student-eval.pdf">student evaluation</a> 
       
       <a href="https://kshannon-ucsd.github.io/dsc100/">website</a>
       
@@ -173,7 +173,7 @@ Below is the list detailing the classes that I have served as an undergraduate/g
     <em>UCSD COGS 9  FA22, WI23, SP24</em>
     <br>
 
-     <a href="../assets/pdfs/evaluations/cogs9_eval.pdf">instructor evaluation</a>
+     <a href="../assets/pdfs/evaluations/cogs9-instructor-eval.pdf">instructor evaluation</a>
 
      <a href="https://kshannon-ucsd.github.io/cogs9/">website</a>
 
@@ -195,7 +195,7 @@ Below is the list detailing the classes that I have served as an undergraduate/g
     <em>UCSD COGS 8 FA23</em>
     <br>
 
-    <a href="../assets/pdfs/evaluations/cogs8_eval.pdf">instructor evaluation</a> 
+    <a href="../assets/pdfs/evaluations/cogs8-instructor-eval.pdf">instructor evaluation</a> 
 
     <a href="https://kshannon-ucsd.github.io/cogs8/">website</a>
 
