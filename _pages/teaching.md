@@ -35,9 +35,9 @@ Below is the list detailing the classes that I have served as an undergraduate/g
       <em>UCSD DSC 30  SU24</em>
       <br>
 
-      <a href="../assets/pdfs/evaluations/dsc30-instructor-eval.pdf">instructor evaluation</a> 
-      
       <a href="https://catalog.ucsd.edu/courses/DSC.html#dsc30">website</a>
+
+      <a href="../assets/pdfs/evaluations/dsc30-instructor-eval.pdf">instructor evaluation</a>
       
       <p></p>
       <p>Programming techniques including encapsulation, abstract data types, interfaces, algorithms and complexity, and data structures such as stacks, queues, priority queues, heaps, linked lists, binary trees, binary search trees, and hash tables with Java.</p>
@@ -58,9 +58,9 @@ Below is the list detailing the classes that I have served as an undergraduate/g
       <em>UCSD DSC 40A  SU24 WI25</em>
       <br>
       
-      <a href="../assets/pdfs/evaluations/dsc40a-instructor-eval.pdf">instructor evaluation</a> 
-
       <a href="https://dsc40a.com/">website</a>
+
+      <a href="../assets/pdfs/evaluations/dsc40a-instructor-eval.pdf">instructor evaluation</a>
       
       <p></p>
       <p>DSC 40A will introduce fundamental topics in machine learning, statistics, and linear algebra with applications to data analysis.</p>
@@ -81,9 +81,9 @@ Below is the list detailing the classes that I have served as an undergraduate/g
       <em>UCSD DSC 40B  FA23 SP24</em>
       <br>
       
-      <a href="../assets/pdfs/evaluations/dsc40b-instructor-eval.pdf">instructor evaluation</a> 
-      
       <a href="https://dsc40b.com">website</a>
+
+      <a href="../assets/pdfs/evaluations/dsc40b-instructor-eval.pdf">instructor evaluation</a>
       
       <p></p>
       <p>DSC 40B, the second course in the sequence, introduces fundamental topics in combinatorics, graph theory, probability, and continuous and discrete algorithms with applications to data analysis.</p>
@@ -125,9 +125,9 @@ Below is the list detailing the classes that I have served as an undergraduate/g
       <em>UCSD DSC 100  FA24</em>
       <br>
 
-      <a href="../assets/pdfs/evaluations/dsc100-student-eval.pdf">student evaluation</a> 
-      
       <a href="https://kshannon-ucsd.github.io/dsc100/">website</a>
+
+      <a href="../assets/pdfs/evaluations/dsc100-student-eval.pdf">student evaluation</a>
       
       <p></p>
       <p>This course is an introduction to storage and management of large-scale data using classical relational (SQL) systems, with an eye toward applications in data science. The course covers topics including the SQL data model and query language, relational data modeling and schema design, elements of cost-based query optimizations, relational data base architecture, and database-backed applications.</p>
@@ -174,12 +174,14 @@ Below is the list detailing the classes that I have served as an undergraduate/g
     <br>
     Prof. Kyle Shannon
     <br>
-    <em>UCSD COGS 9  FA22, WI23, SP24</em>
+    <em>UCSD COGS 9  FA22, WI23, SP24, WI26</em>
     <br>
+
+     <a href="https://kshannon-ucsd.github.io/cogs9/">website</a>
 
      <a href="../assets/pdfs/evaluations/cogs9-instructor-eval.pdf">instructor evaluation</a>
 
-     <a href="https://kshannon-ucsd.github.io/cogs9/">website</a>
+     <a href="../assets/pdfs/evaluations/cogs9-student-eval.pdf">student evaluation</a>
 
     <p></p>
     <p>The course provides a comprehensive overview of core data science concepts and their applications. Students will delve into data privacy and ethical concerns, illustrated with real-world examples. The course emphasizes identifying pertinent data science questions and selecting the appropriate analytical approaches to address them. Communication skills for data-related topics and projects are honed, along with developing a critical mindset for approaching problems with a 'data-first' perspective. Additionally, the course highlights potential pitfalls in data analyses, teaching students how to identify and avoid them.</p>
@@ -199,9 +201,9 @@ Below is the list detailing the classes that I have served as an undergraduate/g
     <em>UCSD COGS 8 FA23</em>
     <br>
 
-    <a href="../assets/pdfs/evaluations/cogs8-instructor-eval.pdf">instructor evaluation</a> 
-
     <a href="https://kshannon-ucsd.github.io/cogs8/">website</a>
+
+    <a href="../assets/pdfs/evaluations/cogs8-instructor-eval.pdf">instructor evaluation</a>
 
     <p></p>
     <p>The class explores the fundamental concepts of computing and its applications. Using Python and small microprocessors, students learn to build robotic systems equipped with sensory mechanisms to perform complex tasks. Along the way, the course introduces key concepts within Cognitive Science, particularly embodied, embedded, and distributed cognition.</p>
